@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Roblox Exploits
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Lua
-- 👯 I’m looking to collaborate on Roblox Exploits
-- 🤔 I’m looking for help with Roblox Exploits
-- 💬 Ask me about Roblox Exploits
-- 📫 How to reach me: Discord. Username is i8i8d2d2
+- 👯 I’m looking to collaborate on banana
+- 🤔 I’m looking for help with banana
+- 💬 Ask me about banana
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a femboy?
+- ⚡ Fun fact: banana
